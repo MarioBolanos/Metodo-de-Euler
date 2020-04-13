@@ -13,3 +13,10 @@ ___
 <section class="post-meta">
 By Niels Henrik Aase, Thorvald Ballestad and Jon Andreas Støvneng
 </section>
+
+___
+
+<a id="rsc"></a>
+
+## Referencias
+<a>[1]</a> Wikipedia. *Fission (biology)* https://en.wikipedia.org/wiki/Fission_(biology), [acquired 30-10-2019]
